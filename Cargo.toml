@@ -1,0 +1,9 @@
+[package]
+name = "http_server"
+version = "0.1.0"
+authors = ["guiqulaxi <935519890@qq.com>"]
+
+[dependencies]
+[[example]]
+name = "example"
+path = "examples/example.rs"
